@@ -238,6 +238,7 @@ function App() {
       padding: "16px", background: "#f8fafc",
       minHeight: "100vh", boxSizing: "border-box", width: "100%",
     }}>
+
       {/* Header */}
       <div style={{
         textAlign: "center", marginBottom: "20px",
@@ -249,16 +250,6 @@ function App() {
         <p style={{ margin: "8px 0 0 0", opacity: 0.9, fontSize: "clamp(12px, 3vw, 14px)" }}>
           Level 5 — Real-world MVP with User Validation
         </p>
-        <a href={GOOGLE_FORM_URL} target="_blank" rel="noreferrer"
-          style={{
-            display: "inline-block", marginTop: "10px",
-            padding: "8px 20px", background: "white",
-            color: "#6366f1", borderRadius: "8px",
-            fontWeight: "bold", fontSize: "13px",
-            textDecoration: "none"
-          }}>
-          📝 Give Feedback
-        </a>
       </div>
 
       {/* Error Banner */}
@@ -429,7 +420,7 @@ function App() {
       {/* Live Activity Feed */}
       <div style={{
         border: "1px solid #e2e8f0", borderRadius: "12px",
-        padding: "16px", background: "white",
+        padding: "16px", background: "white", marginBottom: "20px",
         boxShadow: "0 2px 8px rgba(0,0,0,0.06)"
       }}>
         <h3 style={{ margin: "0 0 12px 0" }}>⚡ Live Activity Feed</h3>
@@ -446,11 +437,12 @@ function App() {
 
       {/* Feedback Banner */}
       <div style={{
-        marginTop: "20px", padding: "16px",
+        padding: "20px 16px",
         background: "linear-gradient(135deg, #6366f1, #8b5cf6)",
         borderRadius: "12px", textAlign: "center", color: "white"
       }}>
-        <p style={{ margin: "0 0 10px 0", fontWeight: "bold" }}>🙏 Help us improve TrustChain!</p>
+        <p style={{ margin: "0 0 6px 0", fontWeight: "bold", fontSize: "16px" }}>🙏 Help us improve TrustChain!</p>
+        <p style={{ margin: "0 0 12px 0", fontSize: "13px", opacity: 0.9 }}>Share your feedback and wallet address</p>
         <a href={GOOGLE_FORM_URL} target="_blank" rel="noreferrer"
           style={{
             display: "inline-block", padding: "10px 24px",
@@ -461,6 +453,7 @@ function App() {
           📝 Fill Feedback Form
         </a>
       </div>
+
     </div>
   );
 }
