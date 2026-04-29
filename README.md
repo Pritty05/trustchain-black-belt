@@ -24,7 +24,7 @@
 
 ## 🎥 Demo Video
 
-📹 **Full MVP Demo:** **[https://youtu.be/qK3RfrvmEK](https://youtu.be/qK3RfrvmEK)**
+📹 **Full MVP Demo:** **[https://youtu.be/qK3RfrvmEK](https://youtu.be/coaLs_8rD8k)**
 
 The video demonstrates the complete user flow:
 - Connecting Freighter wallet on Stellar Testnet
