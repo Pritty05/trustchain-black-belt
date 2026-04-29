@@ -24,7 +24,7 @@
 
 ## 🎥 Demo Video
 
-📹 **Full MVP Demo:** **[https://youtu.be/qK3RfrvmEK](https://youtu.be/coaLs_8rD8k)**
+📹 **Full MVP Demo:** **[https://youtu.be/qK3RfrvmEK](https://youtu.be/qK3RfrvmEK)**
 
 The video demonstrates the complete user flow:
 - Connecting Freighter wallet on Stellar Testnet
@@ -159,6 +159,8 @@ App runs at `http://localhost:5173`
 ### Google Form
 Users were onboarded via a structured Google Form collecting: **Full Name, Email Address, Stellar Wallet Address, Product Rating (1–5), and Improvement Suggestions.**
 
+📝 **User Onboarding Form:** [https://docs.google.com/forms/d/e/1FAIpQLScCgc-YNdstJDQCW2sVOVOh6xXkwvCVLBGP9bX-eZvxf30sRA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScCgc-YNdstJDQCW2sVOVOh6xXkwvCVLBGP9bX-eZvxf30sRA/viewform)
+
 ### Exported Feedback Data (CSV)
 All 7 responses exported for analysis and record-keeping:
 
@@ -278,11 +280,17 @@ trustchain-mvp/
 
 ---
 
+## 📄 License
+
+MIT License — open source, fork and build!
+
+---
+
 <div align="center">
 
 *Built with ❤️ for the Stellar ecosystem*
 
-**[🌐 Live Demo](https://trustchain-mvp-omega.vercel.app) • [🎥 Demo Video](https://youtu.be/coaLs_8rD8k) • [💻 GitHub](https://github.com/Pritty05/trustchain-mvp)**
+**[🌐 Live Demo](https://trustchain-mvp-omega.vercel.app) • [🎥 Demo Video](https://youtu.be/qK3RfrvmEK) • [💻 GitHub](https://github.com/Pritty05/trustchain-mvp)**
 
 *Stellar Journey to Mastery — Level 5 Blue Belt Submission*
 
