@@ -24,7 +24,7 @@
 
 ## 🎥 Demo Video
 
-📹 **Full MVP Demo:** **[https://youtu.be/qK3RfrvmEK](https://youtu.be/qK3RfrvmEK)**
+📹 **Full MVP Demo:** **[https://www.youtube.com/watch?v=coaLs_8rD8k](https://www.youtube.com/watch?v=coaLs_8rD8k)**
 
 The video demonstrates the complete user flow:
 - Connecting Freighter wallet on Stellar Testnet
@@ -284,7 +284,7 @@ trustchain-mvp/
 
 *Built with ❤️ for the Stellar ecosystem*
 
-**[🌐 Live Demo](https://trustchain-mvp-omega.vercel.app) • [🎥 Demo Video](https://youtu.be/qK3RfrvmEK) • [💻 GitHub](https://github.com/Pritty05/trustchain-mvp)**
+**[🌐 Live Demo](https://trustchain-mvp-omega.vercel.app) • [🎥 Demo Video](https://www.youtube.com/watch?v=coaLs_8rD8k) • [💻 GitHub](https://github.com/Pritty05/trustchain-mvp)**
 
 *Stellar Journey to Mastery — Level 5 Blue Belt Submission*
 
